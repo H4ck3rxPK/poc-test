@@ -1,1 +1,1 @@
-alert("0xpk 1337")
+alert(1337)
