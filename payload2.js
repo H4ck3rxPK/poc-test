@@ -1,4 +1,4 @@
-for(let i=1500;i--;) {
+for(let i=999;i--;) {
     document.cookie = `c${i}=${i};path=/`;
 }
 
